@@ -81,7 +81,8 @@ The overview page provides a historical analysis of Formula 1 racing.
 
 ### 🌍 Geographic Analysis
 
-The dashboard includes a map showing **Grand Prix winners across different countries and regions**.
+<img width="1907" height="978" alt="Screenshot 2026-09-19 153143" src="https://github.com/user-attachments/assets/0e67136a-8603-4982-8e02-fedbded94656" />
+
 
 ---
 
