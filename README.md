@@ -53,7 +53,7 @@ The data preparation process included:
 
 Microsoft Power BI was used to build an interactive Formula 1 analysis dashboard.
 
-The dashboard contains multiple pages focused on historical trends, drivers, constructors, and race performance.
+<img width="1906" height="977" alt="Screenshot 2026-09-19 153111" src="https://github.com/user-attachments/assets/185edc58-0520-47be-a454-443e77afd0c5" />
 
 ---
 
